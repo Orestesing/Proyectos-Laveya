@@ -9,7 +9,7 @@ const int LED = 2;
 const int trigPinj = 13;  // Pi
 const int echoPinj = 12;  // Pin de recepción (ECHO) del jabon
 const int trigPins = 14;  // Pin de activtt
-const int echoPins = 4;  // Pin de rejdjdjdjdjdjdjdjjdjdjdvddddddddddddddddddddddd
+const int echoPins = 4;  // Pin d****************************************************
   
 
   
